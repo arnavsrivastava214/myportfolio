@@ -68,3 +68,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+createDownloadLink('path/to/myFile.pdf', 'myFile.pdf'); 
